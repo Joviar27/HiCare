@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">HiCare</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="belum_punya_akun">Belum Punya Akun ?</string>
+    <string name="daftar">Daftar</string>
+    <string name="full_name">Full Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="nama_pengguna">Nama Pengguna</string>
+    <string name="data_anak">Data Anak</string>
+    <string name="rumah_sakit_pilihan">Rumah Sakit Pilihan</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="masukkan_nama_lengkap">Masukkan nama lengkap</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="pilih_tanggal">Pilih Tanggal</string>
+    <string name="tinggi_badan_saat_lahir_cm">Tinggi Badan saat Lahir (cm)</string>
+    <string name="masukkan_tinggi_badan_saat_lahir_cm">Masukkan tinggi badan saat lahir (cm)</string>
+    <string name="masukkan_berat_badan_saat_lahir_kg">Masukkan berat badan saat lahir (kg)</string>
+    <string name="berat_badan_saat_lahir_kg">Berat Badan saat Lahir (kg)</string>
+    <string name="lingkar_kepala_saat_lahir_cm">Lingkar Kepala saat Lahir (cm)</string>
+    <string name="masukkan_lingkar_kepala_saat_lahir_cm">Masukkan lingkar kepala saat lahir (cm)</string>
+    <string name="golongan_darah">Golongan Darah</string>
+    <string name="alergi">Alergi</string>
+    <string name="tanggal_layanan">Tanggal Layanan</string>
+    <string name="pilih_tanggal_layanan">Pilih Tanggal</string>
+    <string name="pelayanan">Pelayanan</string>
+    <string name="upload_kartu_bpjs_opsional">Upload Kartu BPJS (Opsional)</string>
+    <string name="tambahkan_file">Tambahkan file</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="ambil_antrian">Ambil Antrian</string>
+    <string name="beranda">Beranda</string>
+    <string name="nomor_antrian">Nomor Antrian</string>
+    <string name="riwayat">Riwayat</string>
+    <string name="rumah_sakit">Rumah Sakit</string>
+    <string name="berat">Berat</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="lingkar_kepala">Lingkar Kepala</string>
+    <string name="profil">Profil</string>
+    <string name="nomor_handphone">Nomor Handphone</string>
+    <string name="masukkan_nomor_handphone">Masukkan nomor handphone</string>
+    <string name="masukkan_email">Masukkan email</string>
+    <string name="update_foto_profil">Update Foto Profil</string>
+    <string name="tambahkan_gambar">Tambahkan gambar</string>
+
+    //Array for Spinner
+    <string-array name="daftar_rumah_sakit">
+        <item>Eka Hospital BSD</item>
+        <item>RS Premier Bintaro</item>
+        <item>RS Pondok Indah</item>
+        <item>Siloam Hospital</item>
+        <item>RS Bunda Delima</item>
+        <item>RSUD Tangerang Selatan</item>
+    </string-array>
+    <string-array name="jenis_kelamin">
+        <item>Laki - laki</item>
+        <item>Perempuan</item>
+    </string-array>
+    <string-array name="golongan_darah">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+        <item>Tidak tahu</item>
+    </string-array>
+    <string-array name="alergi">
+        <item>Tidak ada</item>
+        <item>Ada</item>
+    </string-array>
+    <string-array name="daftar_pelayanan">
+        <item>Cek Rutin</item>
+        <item>Cek Khusus</item>
+        <item>Contoh Layanan 1</item>
+        <item>Contoh Layanan 2</item>
+        <item>Contoh Layanan 3</item>
+        <item>Contoh Layanan 4</item>
+    </string-array>
+
+</resources>

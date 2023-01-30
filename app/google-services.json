@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784617330967",
+    "project_id": "hicare-prototype",
+    "storage_bucket": "hicare-prototype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784617330967:android:1c3b0cf26223a7fa20bf52",
+        "android_client_info": {
+          "package_name": "com.example.hicare_prototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784617330967-824hibni42r6jrfq8apkm6afrbh3ijqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3GBGIR0qjDo3vDz_Ajur_agKn_q7Npyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784617330967-824hibni42r6jrfq8apkm6afrbh3ijqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Beranda"
+        android:title="Beranda"
+        android:icon="@drawable/icon_house" />
+    <item
+        android:id="@+id/Riwayat"
+        android:title="Riwayat"
+        android:icon="@drawable/icon_clock"/>
+
+    <item
+        android:id="@+id/Profil"
+        android:title="Profil"
+        android:icon="@drawable/icon_profil"/>
+</menu>
